@@ -26,6 +26,6 @@
  
 For questions, support or interaction with other community members, use the [Discussions](../../discussions). If you want to report a bug or request a new feature, use the [Issues](../../issues).
 
-# Acknowledgments
+## Acknowledgments
 
 <!-- acknowledges other projects used or external contributors -->
