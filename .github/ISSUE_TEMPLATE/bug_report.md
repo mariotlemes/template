@@ -18,7 +18,7 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+A clear and concise description of what you expected to happen. If applicable, inform the sections and specifications that defines the expected behavior.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
