@@ -8,7 +8,7 @@
 <img width="20%" src="static/img/my5g-logo.png" alt="my5g-core"/>
 
 ----
-project's description
+<!-- general description of the project -->
 ----
 ## Installation  
 
