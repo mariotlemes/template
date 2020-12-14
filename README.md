@@ -1,5 +1,6 @@
 # my5G
 
+<!-- TODO: replace the repo name below `template` with your repo name -->
 ![GitHub](https://img.shields.io/github/license/my5G/template?color=blue) 
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/my5G/template)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/my5G/template) 
