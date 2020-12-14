@@ -56,7 +56,7 @@ When submitting code, please make every effort to follow existing conventions an
 * All dependencies must be defined in the `go.mod` file.
 * For details on the approved style, check out [Effective Go](https://golang.org/doc/effective_go.html).
 * Create tests for all new features.
-* The tests must be integrated into the CI workflow.
+* The tests must be covered in CI workflow.
 
 ### License
 
