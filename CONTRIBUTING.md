@@ -38,11 +38,11 @@ Before submitting a [new issue](../../issues/new), please search the
 We may have additional questions and will communicate through the GitHub issue, so please respond back to our questions to help reproduce and resolve the issue as quickly as possible.
 ### How to submit Pull Requests
 
-1. Fork this repo
+1. [Fork][fork] this repo
 2. Clone your fork and create a new branch: `$ git checkout https://github.com/your_username_here/repo_name -b name_for_new_branch`.
 3. Make changes and test
 4. Publish the changes to your fork
-5. Submit Pull Request with comprehensive description of changes
+5. Submit a [Pull Request][pulls] with comprehensive description of changes
 6. Pull Request must target `master` branch
 7. For a Pull Request to be merged:
    * CI workflow must succeed
@@ -62,3 +62,6 @@ When submitting code, please make every effort to follow existing conventions an
 ### License
 
 By contributing your code, you agree to license your contribution under the terms of the [Apache License 2.0](LICENSE.txt). All files are released with the Apache License 2.0.
+
+[fork]: https://help.github.com/articles/fork-a-repo/
+[pulls]: https://help.github.com/articles/creating-a-pull-request/
