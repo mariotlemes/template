@@ -2,24 +2,24 @@
 
 Help wanted! We'd love your contributions to `my5G initiave`. Please review the following guidelines before contributing. Also, feel free to propose changes to these guidelines by updating this file and submitting a pull request.
 
-* [I have a question...](#questions)
-* [I found a bug...](#bugs)
-* [I have a feature request...](#features)
-* [I have a contribution to share...](#process)
+* [I have a question...](#have-a-question)
+* [I found a bug...](#found-a-bug)
+* [I have a feature request...](#have-a-feature-request)
+* [I have a contribution to share...](#ready-to-contribute)
 
-## <a href="#questions"></a> Have a question?
+## Have a question?
 
 You can use [discussions](../../discussions) to interact with other community members, share new ideas and ask questions.
 
-## <a href="#bugs"></a> Found a bug?
+## Found a bug?
                             
 You can use [issues](../../issues) to report bugs. Choose the `bug template` and provide all the requested information, otherwise your issue could be closed. Please also feel free to submit a Pull Request with a fix for the bug! For sensitive security-related issues, please report via email: my5G.initiative@gmail.com.
 
-## <a href="#features"></a> Have a Feature Request?
+## Have a Feature Request?
 
 All feature requests should start with [submitting an issue](../../issues/new) documenting the user story and acceptance criteria. Choose the `feature request template` and provide all the requested information, otherwise your issue could be closed. Again, feel free to submit a `Pull Request` with a proposed implementation of the feature. 
 
-## <a href="#process"></a> Ready to contribute
+## Ready to contribute
 
 ### Create an issue
 
